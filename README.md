@@ -1,16 +1,17 @@
-# 创界科技网站
+# XP Website - 我的个人网站
 
-一个现代化、响应式的企业网站模板，包含完整的前端功能。
+![Gitee Pages](https://img.shields.io/badge/Gitee-Pages-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## 功能特点
+## 在线访问
+[https://xingpan-zhou.gitee.io/xp-website](https://xingpan-zhou.gitee.io/xp-website)
 
-- ✅ 完全响应式设计
-- ✅ 暗色/浅色主题切换
-- ✅ 移动端友好导航
-- ✅ 作品筛选功能
-- ✅ 联系表单验证
-- ✅ 平滑滚动效果
-- ✅ 加载动画
-- ✅ 返回顶部按钮
+## 功能特性
+- 响应式设计
+- 现代化界面
+- 免费托管
 
-## 文件结构
+## 技术栈
+- HTML5
+- CSS3
+- JavaScript
